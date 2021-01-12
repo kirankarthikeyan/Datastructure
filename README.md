@@ -1,1 +1,4 @@
 # Datastructure
+array
+lists
+stack
